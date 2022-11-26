@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:title="Cửa hàng"/>
+        <item android:id="@+id/SP"
+            android:title="Sản phẩm"
+            android:icon="@drawable/ic_baseline_brightness_1_24"
+            />
+    <item android:id="@+id/LSP"
+        android:title="Loại sản phẩm"
+        android:icon="@drawable/ic_baseline_label_24"
+        />
+        <item android:id="@+id/NV"
+            android:title="Nhân viên"
+            android:icon="@drawable/ic_nhanvien"
+            />
+        <item android:id="@+id/HD"
+            android:title="Hoá đơn"
+            android:icon="@drawable/ic_hoadon"
+            />
+    </group>
+    <group>
+        <item android:title="Thống kê"/>
+        <item
+            android:id="@+id/SPBC"
+            android:title="Sản phẩm bán chạy"
+            android:icon="@drawable/ic_baseline_verified_24"
+            />
+        <item
+            android:id="@+id/DT"
+            android:title="Doanh thu"
+            android:icon="@drawable/ic_baseline_show_chart_24"
+            />
+    </group>
+    <item android:title="Tài khoản" />
+    <item android:title="Chỉnh sửa"
+            android:id="@+id/CS"
+        android:icon="@drawable/ic_baseline_brightness_1_24"
+        />
+    <item android:title="Đăng xuất"
+        android:id="@+id/DX"
+        android:icon="@drawable/ic_baseline_brightness_1_24"
+        />
+
+</menu>

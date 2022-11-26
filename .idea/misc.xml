@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.10847628657921292" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/custom_btn_csnv.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/custom_dialog_themnv.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/custom_edt_csnv.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/custom_edt_themnv.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/custom_item_nhanvien.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/cutstom_btn_themnv.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/cutstom_btnlogin.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/cutstom_edt.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/cutstom_itemview_hienthinhanvien.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/dialog_dangxuat.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/ic_nhanvien.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_them.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/person.xml" value="0.118" />
+        <entry key="app/src/main/res/layout/activity_fragment_ds_nhanvien.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_fragment_nhanvien.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_fragment_nhanvien2.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_manhinhchao.xml" value="0.2128623188405797" />
+        <entry key="app/src/main/res/layout/activity_manhinhchinh.xml" value="0.2128623188405797" />
+        <entry key="app/src/main/res/layout/activity_them_nhan_vien.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/dialog_chinh_sua_nv.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/dialog_dangxuat.xml" value="0.2128623188405797" />
+        <entry key="app/src/main/res/layout/dialog_them_nhan_vien.xml" value="0.1977401129943503" />
+        <entry key="app/src/main/res/layout/dialogthemnhanvien.xml" value="0.2128623188405797" />
+        <entry key="app/src/main/res/layout/item_nhanvien.xml" value="0.2128623188405797" />
+        <entry key="app/src/main/res/layout/items_nhanvien.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/k.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/layout_header_nav.xml" value="0.2128623188405797" />
+        <entry key="app/src/main/res/layout/toobar.xml" value="0.2128623188405797" />
+        <entry key="app/src/main/res/menu/layout_menu_nav.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/xml/cutstom_btnlogin.xml" value="0.2128623188405797" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

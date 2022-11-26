@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D8BFD8"
+    tools:context=".Fragment.NhanvienFragment"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_nhanvien" />
+
+        <ListView
+            android:id="@+id/lv_nhanvien"
+            android:layout_width="wrap_content"
+            android:layout_height="515dp"
+            android:background="@drawable/custom_item_nhanvien"
+            android:backgroundTint="@null">
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/iconnhanvien" />
+        </ListView>
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/tv_fab"
+            android:layout_width="60dp"
+            android:layout_height="59dp"
+            android:layout_marginBottom="48dp"
+            android:background="@color/purple_200"
+            android:clickable="true"
+            android:src="@drawable/ic_them"
+            app:backgroundTint="#8A2BE2"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
