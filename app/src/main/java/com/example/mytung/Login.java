@@ -22,6 +22,8 @@ public class Login extends AppCompatActivity {
     ChuCuaHang chucuahang;
     List<ChuCuaHang> list = new ArrayList<>();
     ChuCuaHangDAO chuDao;
+    //tung test github tý thôi
+    // tùng đẹp trai 10 người yêu
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
